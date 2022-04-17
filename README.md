@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mogana004
-- 👀 I’m interested in ... Learning
-- 🌱 I’m currently learning ... Computer and communication engineering
-- 💞️ I’m looking to collaborate on ...Projects and innovations
-- 📫 How to reach me ...
+- 👀 I’m interested in ... python programming , AI&DS etc.
+- 📫 How to reach me ... mmvmogana004@gmail.com
+- 
 
 <!---
 Mogana004/Mogana004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
